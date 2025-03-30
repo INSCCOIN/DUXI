@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/DUXI.dir/main.cpp.o CMakeFiles/DUXI.dir/Renderer.cpp.o CMakeFiles/DUXI.dir/Window.cpp.o CMakeFiles/DUXI.dir/Shader.cpp.o CMakeFiles/DUXI.dir/Mesh.cpp.o CMakeFiles/DUXI.dir/Camera.cpp.o -o DUXI  /usr/local/lib/libGLEW.dylib /usr/local/lib/libglfw.3.4.dylib -framework OpenGL

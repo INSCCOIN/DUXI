@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/isimpson/Desktop/Programming/My C++/Engines/DUXI/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/DUXI.dir/main.cpp.o -c \"/Users/isimpson/Desktop/Programming/My C++/Engines/DUXI/main.cpp\"",
+  "file": "/Users/isimpson/Desktop/Programming/My C++/Engines/DUXI/main.cpp",
+  "output": "CMakeFiles/DUXI.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/isimpson/Desktop/Programming/My C++/Engines/DUXI/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/DUXI.dir/Renderer.cpp.o -c \"/Users/isimpson/Desktop/Programming/My C++/Engines/DUXI/Renderer.cpp\"",
+  "file": "/Users/isimpson/Desktop/Programming/My C++/Engines/DUXI/Renderer.cpp",
+  "output": "CMakeFiles/DUXI.dir/Renderer.cpp.o"
+},
+{
+  "directory": "/Users/isimpson/Desktop/Programming/My C++/Engines/DUXI/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/DUXI.dir/Window.cpp.o -c \"/Users/isimpson/Desktop/Programming/My C++/Engines/DUXI/Window.cpp\"",
+  "file": "/Users/isimpson/Desktop/Programming/My C++/Engines/DUXI/Window.cpp",
+  "output": "CMakeFiles/DUXI.dir/Window.cpp.o"
+},
+{
+  "directory": "/Users/isimpson/Desktop/Programming/My C++/Engines/DUXI/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/DUXI.dir/Shader.cpp.o -c \"/Users/isimpson/Desktop/Programming/My C++/Engines/DUXI/Shader.cpp\"",
+  "file": "/Users/isimpson/Desktop/Programming/My C++/Engines/DUXI/Shader.cpp",
+  "output": "CMakeFiles/DUXI.dir/Shader.cpp.o"
+},
+{
+  "directory": "/Users/isimpson/Desktop/Programming/My C++/Engines/DUXI/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/DUXI.dir/Mesh.cpp.o -c \"/Users/isimpson/Desktop/Programming/My C++/Engines/DUXI/Mesh.cpp\"",
+  "file": "/Users/isimpson/Desktop/Programming/My C++/Engines/DUXI/Mesh.cpp",
+  "output": "CMakeFiles/DUXI.dir/Mesh.cpp.o"
+},
+{
+  "directory": "/Users/isimpson/Desktop/Programming/My C++/Engines/DUXI/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/DUXI.dir/Camera.cpp.o -c \"/Users/isimpson/Desktop/Programming/My C++/Engines/DUXI/Camera.cpp\"",
+  "file": "/Users/isimpson/Desktop/Programming/My C++/Engines/DUXI/Camera.cpp",
+  "output": "CMakeFiles/DUXI.dir/Camera.cpp.o"
+}
+]

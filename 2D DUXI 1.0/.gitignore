@@ -1,0 +1,8 @@
+# filepath: /Users/isimpson/Desktop/Programming/My C++/2d Game Engine/.gitignore
+/build/
+*.o
+*.obj
+*.log
+*.tmp
+*.swp
+.DS_Store
